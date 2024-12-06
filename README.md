@@ -36,7 +36,7 @@ In this course, you will:
 3. Open a pull request
 4. Merge your pull request
 
-### How to start this course
+### How to start this course - Rick Culbreth
 
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
